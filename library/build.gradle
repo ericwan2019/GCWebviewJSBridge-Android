@@ -20,12 +20,6 @@ android {
     }
 }
 
-allprojects {
-    repositories {
-        jcenter()
-    }
-}
-
 
 
 dependencies {
